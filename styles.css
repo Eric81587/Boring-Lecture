@@ -18,3 +18,14 @@ line-height: 40px;
 img.intro {
 border-radius: 50%;
 }
+
+/* img { definition css } 
+   img.intro { every image with the class of intro }
+   .intro { everything that has the class of intro }
+   #intro-img {  defines the only HTML element with that ID }
+   .success { color: green }
+
+
+   <img id="intro-img"></img>
+
+*/
